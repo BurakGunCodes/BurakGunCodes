@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @BurakGunCodes
-- 👀 I’m interested in embedded software development
-- 🌱 I’m currently learning Embedded C 
+- 👀 I’m interested in Embedded Software Development
 - 📫 You can reach me via burak.gun@hotmail.com
 
 <!---
