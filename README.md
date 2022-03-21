@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BurakGunCodes
-- 👀 I’m Embedded Software Developer who has interest in data science. Currently working on SQL and Python.
+- 👀 I’m an Embedded Software Developer who has an interest in data science. Currently working on SQL and Python.
 - 📫 You can reach me via burak.gun@hotmail.com
 
 <!---
